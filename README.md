@@ -5,7 +5,7 @@ Scripts for Marzban
 - **Install Marzban with SQLite**:
 
 ```bash
-sudo bash -c "$(curl -sL https://github.com/Gozargah/Marzban-scripts/raw/master/marzban.sh)" @ install
+sudo bash -c "$(curl -sL https://github.com/pettoan/Marzban-scripts/raw/master/marzban.sh)" @ install
 ```
 
 - **Install Marzban with MySQL**:
